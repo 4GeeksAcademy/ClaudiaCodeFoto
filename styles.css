@@ -1,0 +1,51 @@
+body {
+    background-color: hsl(0, 0%, 90%);
+    margin: 0;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+
+    
+}
+
+#header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 60px;
+        width: 100%;
+        text-align: center;
+ }
+
+.foto{
+    margin: auto;
+    
+    width: 40%;
+    
+}
+
+img{
+    width: 100%;
+}
+
+.date{
+    float:right
+}
+
+.subtitulo{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.photo{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: white; 
+}
+p{
+    padding: 10px;
+}
+
+
+
+

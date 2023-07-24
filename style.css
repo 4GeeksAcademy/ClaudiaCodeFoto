@@ -1,0 +1,14 @@
+body {
+    background-color: hsl(0, 0%, 90%);
+    margin: 0;
+
+    
+}
+
+header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 60px;
+    }
+}
